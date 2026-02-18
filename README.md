@@ -1,2 +1,3 @@
 # Bootcamp_EDA
-The EDA analysis of the course Data Bootcamp
+
+The EDA analysis project from the course Data Bootcamp
